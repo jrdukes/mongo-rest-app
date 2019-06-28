@@ -7,7 +7,7 @@
 No API is used to communicate with the database
 
 Does not use express
-Does not use Mong DB
+Does not use Mongo DB
 Does not use mongoose
 Does not use body-parser
 
