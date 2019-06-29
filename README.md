@@ -24,7 +24,7 @@ Use `npm` to install node modules:
 npm install
 ```
 
-Start the node server:
+Start the server:
 
 ```
 npm run dev
