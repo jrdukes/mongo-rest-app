@@ -3,7 +3,7 @@
 
 // testing code from https://github.com/AnnaCate/jrs-mongo-rest to get CRUD functions to work.
 
-// original code below:
+// original code:
 
 // const page = {
 // 	init: function() {
