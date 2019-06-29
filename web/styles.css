@@ -140,7 +140,7 @@ main:after {
 
 header,
 footer {
-  background-color: purple;
+  background-color: orange;
   color: #fff;
 }
 
@@ -155,7 +155,7 @@ footer > p {
 }
 
 #add-new {
-  background-color: lightseagreen;
+  background-color: blue;
   border-radius: 10px;
   border: none;
   color: white;
@@ -165,7 +165,7 @@ footer > p {
 }
 
 #add-new:hover {
-  background-color: rgb(21, 116, 111);
+  background-color: green;
   cursor: pointer;
 }
 
