@@ -140,7 +140,7 @@ main:after {
 
 header,
 footer {
-  background-color: orange;
+  background-color: navy;
   color: #fff;
 }
 
@@ -155,7 +155,7 @@ footer > p {
 }
 
 #add-new {
-  background-color: blue;
+  background-color: rgb(255, 140, 0);
   border-radius: 10px;
   border: none;
   color: white;
