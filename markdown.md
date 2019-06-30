@@ -1,15 +1,4 @@
-# GET, PUT, POST, DELETE assessment
-
-## assessment express, mongodb, api call : assessment mini project 1
-
-## Does not meet expectations
-
-No API is used to communicate with the database
-
-Does not use express
-Does not use Mongo DB
-Does not use mongoose
-Does not use body-parser
+# POST, GET, PUT, DELETE assessment
 
 ## Meets expectations
 
