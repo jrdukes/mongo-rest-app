@@ -1,4 +1,4 @@
-## RESTful API using MongoDB, Express, body-parser, and Mongoose to POST, GET, PUT, DELETE items in database.
+## RESTful API using JavaScript, MongoDB, Express, body-parser, and Mongoose to POST, GET, PUT, DELETE items in database.
 
 ## View Project
 
