@@ -1,6 +1,6 @@
 ## RESTful API using JavaScript, MongoDB, Express, body-parser, and Mongoose to POST, GET, PUT, DELETE items in database.
 
-## Must follow to run API:
+## Must follow to run RESTFful API:
 
 Clone repo in a local directory:
 
