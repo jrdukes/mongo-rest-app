@@ -1,9 +1,5 @@
 ## RESTful API using JavaScript, MongoDB, Express, body-parser, and Mongoose to POST, GET, PUT, DELETE items in database.
 
-## View Project
-
-View live demo of project [here.](https://jrdukes.github.io/mongo-rest-app/web/index.html)
-
 ## Must follow to run API:
 
 Clone repo in a local directory:
@@ -31,3 +27,7 @@ npm run dev
 ```
 
 Open `web/index.html` in browser to run API.
+
+## View Project
+
+When server is started, view live demo of RESTful API [here.](https://jrdukes.github.io/mongo-rest-app/web/index.html)
